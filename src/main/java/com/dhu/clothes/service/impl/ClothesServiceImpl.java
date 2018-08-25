@@ -1,7 +1,6 @@
 package com.dhu.clothes.service.impl;
 
 import com.dhu.clothes.VO.ClothesInfoVO;
-import com.dhu.clothes.VO.ClothesMatchVO;
 import com.dhu.clothes.dataobject.ClothesInfo;
 import com.dhu.clothes.repository.ClothesInfoRepository;
 import com.dhu.clothes.service.ClothesService;

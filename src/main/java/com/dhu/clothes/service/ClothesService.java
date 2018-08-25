@@ -1,7 +1,6 @@
 package com.dhu.clothes.service;
 
 import com.dhu.clothes.VO.ClothesInfoVO;
-import com.dhu.clothes.VO.ClothesMatchVO;
 import com.dhu.clothes.dataobject.ClothesInfo;
 
 import java.util.List;
