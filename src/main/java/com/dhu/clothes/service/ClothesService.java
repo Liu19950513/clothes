@@ -13,7 +13,7 @@ public interface ClothesService {
 
     List<ClothesInfo> findByStyle(String style);
 
-    List<ClothesInfoVO> findList(List<String> clothesIdList );
+    List<ClothesInfoVO> findList(List<Long> clothesIdList );
 
     List<ClothesInfo> findForMatch(String style,String skin);
 }
